@@ -1,4 +1,2 @@
 # tcpl
-The C Programming Language 2 Editon Book's Source Code
-
-Including exercises
+Various C source code for learning purpose.
