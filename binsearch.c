@@ -25,13 +25,13 @@ int main()
 	int i;
 	int digits[10];
 	
-	for (int i = 0; i < 10; i++) {
+	for (i = 0; i < 10; i++) {
 		digits[i] = i + 1;
 	}
 
 	digits[3] = 8;
 	
-	for (int i = 0; i < 10; i++) {
+	for (i = 0; i < 10; i++) {
 		printf("%i ", digits[i]);
 	}
 
